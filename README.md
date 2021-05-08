@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Smooklu
+- 👋 Hi, I’m @Smooklu.
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning cybersecurity.
-- 💞️ I’m looking to collaborate on any projects related to JS/HTML/CSS/Python/Lua
+- 💞️ I’m looking to collaborate on any projects related to JS/HTML/CSS/Python/Lua.
 - 📫 You can reach me on Github.
 
 <!---
