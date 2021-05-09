@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Smooklu.
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning cybersecurity.
+- 👋 Hi, I’m @Smooklu. I am a senior in high school.
+- 👀 I’m interested in Cybersecurity and Infomation Technology.
+- 🌱 I’m always learning more about Python and JS.
 - 💞️ I’m looking to collaborate on any projects related to JS/HTML/CSS/Python/Lua.
 - 📫 You can reach me on Github.
 
