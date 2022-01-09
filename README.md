@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Smooklu.
 - 👀 I’m interested in Cybersecurity and Infomation Technology.
-- 🌱 I’m always learning more about Python and HTML/CSS/JS.
-- 💞️ I’m looking to collaborate on any projects related to JS/HTML/CSS/Python/Lua.
+- 🌱 I’m always learning more about Python, HTML/CSS/JS and Docker.
+- 💞️ I’m looking to collaborate on any projects related to Python, HTML/CSS/JS and Docker.
 - 📫 You can reach me on Github.
 
 <!---
