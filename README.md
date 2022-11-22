@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smooklu.
 - 👀 I’m interested in Cybersecurity and Infomation Technology.
-- 🌱 I’m always learning more about Python, HTML/CSS/JS, PowerShell, and Docker.
+- 🌱 I’m always learning more about Python, HTML/CSS/JS, PowerShell, Docker, and C.
 - 💞️ I’m looking to collaborate on any projects related to Python, HTML/CSS/JS, PowerShell, and Docker.
 - 📫 You can reach me on Github.
 
